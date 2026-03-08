@@ -59,27 +59,21 @@ The event was nominated for **University of Bath Event of the Year**.
 
 ## 🚀 Featured Projects
 
-### Multi-Agent Reinforcement Learning Skill Discovery
-My undergraduate dissertation exploring **graph-based skill discovery for cooperative MARL agents**.
+### Skill Discovery within Multi-Agent Reinforcement Learning (MARL)
+My undergraduate dissertation (awarded **First-class honors**) exploring **graph-based skill discovery for cooperative MARL agents**.
 
-Focus areas:
-- emergent behaviour
-- cooperative agents
-- representation learning in RL
+- I adapted a single-agent graph-based skill discovery algorithm to work for multiple agents working collaboratively
+- I tested the algorithm against baselines in two different test environments
+- I found that my algorithm outperformed the baselines in both of the environments
 
----
+Through this project I learned about:
+- Multi-Agent Reinforcement Learning (MARL)
+- Partially Observable Markov Decision Processes (POMDP)
+- Hierarchical Reinforcement Learning
+- Skill Discovery and the Options Framework
+- How to emprically evaluate the performance of reinforcement learning agents
 
-### 🌱 AI Plant Identifier Web App
-Winner — **Best UI/UX**, Women in Tech Hackathon 2024  
-
-Machine learning web app that identifies houseplants and provides care guidance.
-
-**Tech**
-- Python
-- Flask
-- React
-- Tailwind
-- Scikit-Learn
+Repo is private due to requirements of the course.
 
 ---
 
@@ -88,11 +82,29 @@ Winner — **Tech for Environmental Sustainability**, Bath Hack 2023
 
 Browser extension that displays **product carbon emissions** when shopping online.
 
+[Check out the DevPost Here](https://devpost.com/software/carbonara-4n360r)
+
 **Tech**
 - Python
 - Flask
 - JavaScript
 - DitchCarbon API
+
+---
+
+### 🌱 AI Plant Identifier Web App
+Winner — **Best UI/UX**, Women in Tech Hackathon 2024  
+
+Machine learning web app that identifies houseplants and provides care guidance.
+
+[Check out the DevPost Here](https://devpost.com/software/aloe-mate)
+
+**Tech**
+- Python
+- Flask
+- React
+- Tailwind
+- Scikit-Learn
 
 ---
 
