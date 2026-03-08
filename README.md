@@ -17,7 +17,7 @@ I’m interested in building intelligent systems, particularly **agentic AI, rei
 - Adaptive VR environments
 - Human-AI interaction
 
-My recent work includes research on **multi-agent reinforcement learning and skill discovery**. :contentReference[oaicite:0]{index=0}
+My recent work includes research on **multi-agent reinforcement learning and skill discovery**.
 
 ---
 
@@ -42,7 +42,7 @@ My recent work includes research on **multi-agent reinforcement learning and ski
 - Collaborated in an agile team and contributed to production-level code
 - Presented my solution to the team and the organisation’s Vice President
 
-**Tech:** C#, Azure, Azure OpenAI, Azure SQL, Git :contentReference[oaicite:2]{index=2}
+**Tech:** C#, Azure, Azure OpenAI, Azure SQL, Git
 
 ---
 
@@ -53,14 +53,14 @@ My recent work includes research on **multi-agent reinforcement learning and ski
 - Raised **£10,000+ in sponsorship**
 - Organised a **24-hour hackathon with 200 participants and 14 sponsors**
 
-The event was nominated for **University of Bath Event of the Year**. :contentReference[oaicite:3]{index=3}
+The event was nominated for **University of Bath Event of the Year**.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### Multi-Agent Reinforcement Learning Skill Discovery
-My undergraduate dissertation exploring **graph-based skill discovery for cooperative MARL agents**. :contentReference[oaicite:4]{index=4}
+My undergraduate dissertation exploring **graph-based skill discovery for cooperative MARL agents**.
 
 Focus areas:
 - emergent behaviour
@@ -79,7 +79,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 - Flask
 - React
 - Tailwind
-- Scikit-Learn :contentReference[oaicite:5]{index=5}
+- Scikit-Learn
 
 ---
 
@@ -92,7 +92,7 @@ Browser extension that displays **product carbon emissions** when shopping onlin
 - Python
 - Flask
 - JavaScript
-- DitchCarbon API :contentReference[oaicite:6]{index=6}
+- DitchCarbon API
 
 ---
 
@@ -103,7 +103,7 @@ Browser extension that displays **product carbon emissions** when shopping onlin
 - **Top 10 Computer Science student**, University of Bath
 - Microsoft Certified **Azure Fundamentals**
 - Runner-up — **Bournemouth Young Researchers Prize**
-- 3rd place — **Alan Turing Cryptography Competition** (1000+ teams) :contentReference[oaicite:7]{index=7}
+- 3rd place — **Alan Turing Cryptography Competition** (1000+ teams)
 
 ---
 
@@ -124,7 +124,7 @@ React • Flask • Tailwind • Scikit-Learn • Azure • Git • GitHub
 ⛷ Skiing  
 💃 Dance  
 🏃 Running  
-🌊 Windsurfing :contentReference[oaicite:8]{index=8}
+🌊 Windsurfing
 
 ---
 
