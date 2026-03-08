@@ -12,12 +12,11 @@ I’m interested in building intelligent systems, particularly **agentic AI, rei
 ## 🔬 Research & Interests
 
 - Agentic AI systems
-- Multi-agent reinforcement learning
+- Reinforcement learning
+- Large Language Models
 - LLM orchestration and tool use
-- Adaptive VR environments
-- Human-AI interaction
 
-My recent work includes research on **multi-agent reinforcement learning and skill discovery**.
+My recent work includes **multi-agent reinforcement learning, skill discovery, development of agentic AI systems, and observing interactions between multiple LLM agents**.
 
 ---
 
