@@ -77,6 +77,25 @@ Repo is private due to requirements of the course.
 
 ---
 
+### 🕵️ LLM Agent Traitors Simulator
+
+Multi-agent AI system where large language model agents play a social deduction game inspired by *The Traitors*.
+
+Agents are given hidden roles (traitor or faithful) and must reason, form alliances, and deceive or detect deception through conversation.
+
+[Check it out here](https://github.com/l-sheard/TraitorsAI)
+
+Focus areas:
+- multi-agent reasoning
+- deception and trust modelling
+- emergent social behaviour in LLM agents
+- evaluation of LLM reasoning in social environments
+
+Tech:
+Python • LLM APIs • Prompt engineering • Multi-agent simulation
+
+---
+
 ### 🌍 Carbon Footprint Browser Extension
 Winner — **Tech for Environmental Sustainability**, Bath Hack 2023  
 
