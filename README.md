@@ -1,9 +1,9 @@
 # Hi, I'm Lara Sheard 👋
 
-MComp Computer Science student at the **University of Bath** (First Class, Top 10 student)  
-Software Engineering Intern at **Microsoft** (2024, 2025)  
+MComp Computer Science student at the **University of Bath** (on track for First Class honours, recipient of Top 10 student award)  
+Software Engineering Intern at **Microsoft** (summer 2024 and 2025)  
 Generation Google Scholar (2023–24)  
-Chair of the **Bath Computer Science Society**  
+Chair of the **Bath Computer Science Society** (2024-25)  
 
 I’m interested in building intelligent systems, particularly **agentic AI, reinforcement learning, and multi-agent systems**.
 
@@ -120,9 +120,6 @@ React • Flask • Tailwind • Scikit-Learn • Azure • Git • GitHub
 ---
 
 ## 🎯 Interests
-
-Outside of tech I enjoy:
-
 🏄 Surfing  
 ⛷ Skiing  
 💃 Dance  
@@ -132,5 +129,5 @@ Outside of tech I enjoy:
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn  
-💻 DevPost
+💼 [LinkedIn](https://www.linkedin.com/in/lara-sheard-60b53025a)  
+💻 [DevPost](https://devpost.com/ls2548?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
