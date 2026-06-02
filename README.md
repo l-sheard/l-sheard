@@ -94,6 +94,12 @@ Tech:
 Python • LLM APIs • Prompt engineering • Multi-agent simulation
 
 ---
+### For The Plot - Agentic AI Group Trip Planner
+**Honourable Mention for Best Overall** - Bath Hack 2026
+
+Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
+
+---
 
 ### 🌍 Carbon Footprint Browser Extension
 Winner — **Tech for Environmental Sustainability**, Bath Hack 2023  
