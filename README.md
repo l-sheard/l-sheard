@@ -119,12 +119,13 @@ Developed a web app that allows a group of friends to each input their availabil
 
 ---
 
-### 🌍 Carbon Footprint Browser Extension
+### 🌍 [Carbon Footprint Browser Extension](https://github.com/palkerecsenyi/carbonara)
 Winner — **Tech for Environmental Sustainability**, Bath Hack 2023  
 
 Browser extension that displays **product carbon emissions** when shopping online.
 
 [Check out the DevPost Here](https://devpost.com/software/carbonara-4n360r)
+🔗 [Repo](https://github.com/palkerecsenyi/carbonara)
 
 **Tech**
 - Python
@@ -134,12 +135,13 @@ Browser extension that displays **product carbon emissions** when shopping onlin
 
 ---
 
-### 🌱 AI Plant Identifier Web App
+### 🌱 [AI Plant Identifier Web App](https://github.com/l-sheard/housePlants)
 Winner — **Best UI/UX**, Women in Tech Hackathon 2024  
 
 Machine learning web app that identifies houseplants and provides care guidance.
 
 [Check out the DevPost Here](https://devpost.com/software/aloe-mate)
+🔗 [Repo](https://github.com/l-sheard/housePlants)
 
 **Tech**
 - Python
