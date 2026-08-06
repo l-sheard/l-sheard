@@ -103,18 +103,19 @@ Through this project I learned about:
 Repo is private due to requirements of the course.
 
 ---
-### For The Plot - Agentic AI Group Trip Planner
-**Honourable Mention for Best Overall** - Bath Hack 2026
 
-Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
-
----
 ### 🌞 [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
 A real-time shared calendar for planning group activities with friends or flatmates — drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports email/password and Google sign-in, plus frictionless guest links for people outside the group.
 
 **Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
 
 🔗 [Repo](https://github.com/l-sheard/Group-Activity-Planner)
+
+---
+### [For The Plot - Agentic AI Group Trip Planner](https://github.com/l-sheard/BathHack26)
+**Honourable Mention for Best Overall** - Bath Hack 2026
+
+Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
 
 ---
 
