@@ -1,6 +1,6 @@
 # Hi, I'm Lara Sheard 👋
 
-Fist-Class Honours Graduate Masters student in Computer Science at the **University of Bath** (80% grade average, recipient of Top 10 student award)  
+First-Class Honours Graduate Masters student in Computer Science at the **University of Bath** (80% grade average, recipient of Top 10 student award)  
 Software Engineering Intern at **Microsoft** (summer 2024 and 2025)  
 Generation Google Scholar (2023–24)  
 Chair of the **Bath Computer Science Society** (2024-25)  
