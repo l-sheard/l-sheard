@@ -81,8 +81,7 @@ Focus areas:
 - emergent social behaviour in LLM agents
 - evaluation of LLM reasoning in social environments
 
-Tech:
-Python • LLM APIs • Prompt engineering • Multi-agent simulation
+**Tech:** Python • LLM APIs • Prompt engineering • Multi-agent simulation
 
 ---
 
@@ -100,6 +99,7 @@ Through this project I learned about:
 - Skill Discovery and the Options Framework
 - How to emprically evaluate the performance of reinforcement learning agents
 
+**Stack:** Python
 Repo is private due to requirements of the course.
 
 ---
@@ -116,6 +116,9 @@ A real-time shared calendar for planning group activities with friends or flatma
 **Honourable Mention for Best Overall** - Bath Hack 2026
 
 Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
+
+**Stack:** React, TypeScript, Tailwind, Supabase
+🔗 [Repo](https://github.com/l-sheard/BathHack26)
 
 ---
 
