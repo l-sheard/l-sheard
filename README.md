@@ -1,6 +1,6 @@
 # Hi, I'm Lara Sheard 👋
 
-MComp Computer Science student at the **University of Bath** (on track for First Class honours, recipient of Top 10 student award)  
+Fist-Class Honours Graduate Masters student in Computer Science at the **University of Bath** (80% grade average, recipient of Top 10 student award)  
 Software Engineering Intern at **Microsoft** (summer 2024 and 2025)  
 Generation Google Scholar (2023–24)  
 Chair of the **Bath Computer Science Society** (2024-25)  
@@ -57,6 +57,15 @@ The event was nominated for **University of Bath Event of the Year**.
 ---
 
 ## 🚀 Featured Projects
+
+### [My Travel Patches](https://mytravelpatches.com/)
+A PWA for cataloguing a physical travel patch collection — scan a patch with your phone to match it against ones you've already logged using computer vision. Full auth, Postgres row-level security, and background removal via a Cloudflare Worker.
+
+**Stack:** React, TypeScript, Vite, Supabase (Postgres/Auth/Storage), TensorFlow.js, Cloudflare Workers
+
+🔗 [Live site](https://mytravelpatches.com/) · [Repo](https://github.com/l-sheard/Travel-Patch-Collection)
+
+---
 
 ### Skill Discovery within Multi-Agent Reinforcement Learning (MARL)
 My undergraduate dissertation (awarded **First-class honors**) exploring **graph-based skill discovery for cooperative MARL agents**.
