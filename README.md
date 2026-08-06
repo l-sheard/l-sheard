@@ -109,6 +109,14 @@ Python • LLM APIs • Prompt engineering • Multi-agent simulation
 Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
 
 ---
+### 🌞 [Group Activity Planner](https://l-sheard.github.io/Group-Activity-Planner/)
+A real-time shared calendar for planning group activities with friends or flatmates — drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports email/password and Google sign-in, plus frictionless guest links for people outside the group.
+
+**Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
+
+🔗 [Live demo](https://l-sheard.github.io/Group-Activity-Planner/) · [Repo](https://github.com/l-sheard/Group-Activity-Planner)
+
+---
 
 ### 🌍 Carbon Footprint Browser Extension
 Winner — **Tech for Environmental Sustainability**, Bath Hack 2023  
