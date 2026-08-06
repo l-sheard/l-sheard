@@ -182,21 +182,13 @@ Machine learning web app that identifies houseplants and provides care guidance.
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages:** Python • C# • Java • TypeScript • JavaScript • SQL • Haskell • HTML • CSS
 
-Python • C# • Java • TypeScript • JavaScript • SQL • Haskell • HTML • CSS
+**AI & Machine Learning:** LLM APIs • Prompt Engineering • RAG • MCP Servers • LangChain • LangGraph • PyTorch
 
-**AI & Machine Learning**
+**Frameworks & Technologies:** React • Flask • Tailwind CSS • Vite • Supabase • Azure
 
-LLM APIs • Prompt Engineering • RAG • MCP Servers • LangChain • LangGraph • PyTorch
-
-**Frameworks & Technologies**
-
-React • Flask • Tailwind CSS • Vite • Supabase • Azure
-
-**Developer Tools**
-
-Git • GitHub • GitHub Copilot • Claude Code • Linux
+**Developer Tools:** Git • GitHub • GitHub Copilot • Claude Code • Linux
 
 ---
 
