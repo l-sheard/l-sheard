@@ -105,7 +105,7 @@ Repo is private due to requirements of the course.
 ---
 
 ### 🌞 [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
-A real-time shared calendar for planning group activities with friends or flatmates — drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports email/password and Google sign-in, plus frictionless guest links for people outside the group.
+A real-time shared calendar for planning group activities with friends or flatmates — drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports guest links for inviting people outside the group.
 
 **Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
 
@@ -127,11 +127,7 @@ Browser extension that displays **product carbon emissions** when shopping onlin
 [Check out the DevPost Here](https://devpost.com/software/carbonara-4n360r)
 🔗 [Repo](https://github.com/palkerecsenyi/carbonara)
 
-**Tech**
-- Python
-- Flask
-- JavaScript
-- DitchCarbon API
+**Stack:** Python, Flask, JavaScript, DitchCarbon API
 
 ---
 
@@ -143,12 +139,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 [Check out the DevPost Here](https://devpost.com/software/aloe-mate)
 🔗 [Repo](https://github.com/l-sheard/housePlants)
 
-**Tech**
-- Python
-- Flask
-- React
-- Tailwind
-- Scikit-Learn
+**Stack:** Python, Flask, React, Tailwind, Scikit-Learn
 
 ---
 
