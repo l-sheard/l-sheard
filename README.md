@@ -85,7 +85,7 @@ Repo is private due to requirements of the course.
 
 ---
 
-### 🕵️ LLM Agent Traitors Simulator - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026
+### 🕵️ [LLM Agent Traitors Simulator - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026](https://github.com/l-sheard/TraitorsAI)
 
 Multi-agent AI system where large language model agents play a social deduction game inspired by *The Traitors*.
 
