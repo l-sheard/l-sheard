@@ -67,24 +67,6 @@ A PWA for cataloguing a physical travel patch collection — scan a patch with y
 
 ---
 
-### Skill Discovery within Multi-Agent Reinforcement Learning (MARL)
-My undergraduate dissertation (awarded **First-class honors**) exploring **graph-based skill discovery for cooperative MARL agents**.
-
-- I adapted a single-agent graph-based skill discovery algorithm to work for multiple agents working collaboratively
-- I tested the algorithm against baselines in two different test environments
-- I found that my algorithm outperformed the baselines in both of the environments
-
-Through this project I learned about:
-- Multi-Agent Reinforcement Learning (MARL)
-- Partially Observable Markov Decision Processes (POMDP)
-- Hierarchical Reinforcement Learning
-- Skill Discovery and the Options Framework
-- How to emprically evaluate the performance of reinforcement learning agents
-
-Repo is private due to requirements of the course.
-
----
-
 ### 🕵️ [LLM Agent Traitors Simulator](https://github.com/l-sheard/TraitorsAI) - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026
 
 Multi-agent AI system where large language model agents play a social deduction game inspired by *The Traitors*.
@@ -103,13 +85,31 @@ Tech:
 Python • LLM APIs • Prompt engineering • Multi-agent simulation
 
 ---
+
+### Skill Discovery within Multi-Agent Reinforcement Learning (MARL)
+My undergraduate dissertation (awarded **First-class honors**) exploring **graph-based skill discovery for cooperative MARL agents**.
+
+- I adapted a single-agent graph-based skill discovery algorithm to work for multiple agents working collaboratively
+- I tested the algorithm against baselines in two different test environments
+- I found that my algorithm outperformed the baselines in both of the environments
+
+Through this project I learned about:
+- Multi-Agent Reinforcement Learning (MARL)
+- Partially Observable Markov Decision Processes (POMDP)
+- Hierarchical Reinforcement Learning
+- Skill Discovery and the Options Framework
+- How to emprically evaluate the performance of reinforcement learning agents
+
+Repo is private due to requirements of the course.
+
+---
 ### For The Plot - Agentic AI Group Trip Planner
 **Honourable Mention for Best Overall** - Bath Hack 2026
 
 Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
 
 ---
-### 🌞 [Group Activity Planner](https://l-sheard.github.io/Group-Activity-Planner/)
+### 🌞 [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
 A real-time shared calendar for planning group activities with friends or flatmates — drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports email/password and Google sign-in, plus frictionless guest links for people outside the group.
 
 **Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
