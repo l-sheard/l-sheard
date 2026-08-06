@@ -85,7 +85,7 @@ Repo is private due to requirements of the course.
 
 ---
 
-### 🕵️ [LLM Agent Traitors Simulator - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026](https://github.com/l-sheard/TraitorsAI)
+### 🕵️ [LLM Agent Traitors Simulator](https://github.com/l-sheard/TraitorsAI) - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026
 
 Multi-agent AI system where large language model agents play a social deduction game inspired by *The Traitors*.
 
@@ -114,7 +114,7 @@ A real-time shared calendar for planning group activities with friends or flatma
 
 **Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
 
-🔗 [Live demo](https://l-sheard.github.io/Group-Activity-Planner/) · [Repo](https://github.com/l-sheard/Group-Activity-Planner)
+🔗 [Repo](https://github.com/l-sheard/Group-Activity-Planner)
 
 ---
 
