@@ -5,7 +5,7 @@
 - First-Class honours Masters in Computer Science from the **University of Bath** (80% grade average, recipient of Top 10 student award)
 - Chair of the **Bath Computer Science Society** (2024-25)
 
-I’m interested in building intelligent systems, particularly **agentic AI, reinforcement learning, and multi-agent systems**.
+I’m interested in full-stack development, agentic AI, reinforcement learning, and multi-agent systems.
 
 ---
 
@@ -22,7 +22,7 @@ I’m interested in building intelligent systems, particularly **agentic AI, rei
 ---
 
 ## 🔬 Research & Interests
-
+- Full-stack development
 - Agentic AI systems
 - Reinforcement learning
 - Large Language Models
@@ -118,13 +118,14 @@ Through this project I learned about:
 - How to emprically evaluate the performance of reinforcement learning agents
 
 **Stack:** Python
+
 Repo is private due to requirements of the course.
 
 ---
 
 ### 🌞 [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
 
-A real-time shared calendar for planning group activities with friends or flatmates — drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports guest links for inviting people outside the group.
+A real-time shared calendar for planning group activities with friends or flatmates - drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports guest links for inviting people outside the group.
 
 **Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
 
@@ -136,7 +137,7 @@ A real-time shared calendar for planning group activities with friends or flatma
 
 **Honourable Mention for Best Overall** - Bath Hack 2026
 
-Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an ai agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
+Developed a web app that allows a group of friends to each input their availability, requirements, prefered airport to fly from, and additional criteria for a holiday and then an AI agent plans the whole trip meeting everyones requirements and finding dates and flights that work for everyone.
 
 **Stack:** React, TypeScript, Tailwind, Supabase
 🔗 [Repo](https://github.com/l-sheard/BathHack26)
@@ -147,7 +148,7 @@ Developed a web app that allows a group of friends to each input their availabil
 
 Winner — **Tech for Environmental Sustainability**, Bath Hack 2023
 
-Browser extension that displays **product carbon emissions** when shopping online.
+Browser extension that displays **product carbon emissions** when shopping online so that consumers can make more environmentally informed choices.
 
 [Check out the DevPost Here](https://devpost.com/software/carbonara-4n360r)
 🔗 [Repo](https://github.com/palkerecsenyi/carbonara)
@@ -173,6 +174,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 
 - **Generation Google Scholar (2023–24)**
 - **Four-time Hackathon Winner**
+- **2nd place in the MSc category at the BCS National Lovelace Colloquium 2026**
 - **Top 10 Computer Science student**, University of Bath
 - Microsoft Certified **Azure Fundamentals**
 - Runner-up — **Bournemouth Young Researchers Prize**
@@ -205,4 +207,4 @@ Machine learning web app that identifies houseplants and provides care guidance.
 ## 📫 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/lara-sheard-60b53025a)
-💻 [DevPost](https://devpost.com/ls2548?ref_content=user-portfolio\&ref_feature=portfolio\&ref_medium=global-nav)
+💻 [DevPost](https://devpost.com/ls2548)
