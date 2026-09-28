@@ -1,4 +1,4 @@
-# Hi, I'm Lara Sheard 👋
+# Lara Sheard
 
 - Software Engineering Intern at **Microsoft** (summer 2024 and 2025)
 - Generation Google Scholar (2023–24)
@@ -9,19 +9,19 @@ I’m interested in full-stack development, agentic AI, reinforcement learning, 
 
 ---
 
-## 📑 Contents
+## Contents
 
-- [🔬 Research & Interests](#-research--interests)
-- [💼 Experience](#-experience)
-- [🚀 Featured Projects](#-featured-projects)
-- [🏆 Achievements](#-achievements)
-- [🛠 Tech Stack](#-tech-stack)
-- [🎯 Interests](#-interests)
-- [📫 Connect With Me](#-connect-with-me)
+- [Research & Interests](#-research--interests)
+- [Experience](#-experience)
+- [Featured Projects](#-featured-projects)
+- [Achievements](#-achievements)
+- [Tech Stack](#-tech-stack)
+- [Interests](#-interests)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
-## 🔬 Research & Interests
+## Research & Interests
 - Full-stack development
 - Agentic AI systems
 - Reinforcement learning
@@ -32,7 +32,7 @@ My recent work includes **multi-agent reinforcement learning, skill discovery, d
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Engineering Intern — Microsoft
 
@@ -70,19 +70,19 @@ The event was nominated for **University of Bath Event of the Year**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [My Travel Patches](https://mytravelpatches.com/)
+### [My Travel Patches]
 
 A PWA for cataloguing a physical travel patch collection — scan a patch with your phone to match it against ones you've already logged using computer vision. Full auth, Postgres row-level security, and background removal via a Cloudflare Worker.
 
 **Stack:** React, TypeScript, Vite, Supabase (Postgres/Auth/Storage), TensorFlow\.js, Cloudflare Workers
 
-🔗 [Live site](https://mytravelpatches.com/) · [Repo](https://github.com/l-sheard/Travel-Patch-Collection)
+[Repo](https://github.com/l-sheard/Travel-Patch-Collection)
 
 ---
 
-### 🕵️ [LLM Agent Traitors Simulator](https://github.com/l-sheard/TraitorsAI) - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026
+### [LLM Agent Traitors Simulator](https://github.com/l-sheard/TraitorsAI) - 2nd place in MSc category at the national BCS Lovelace Colloquium 2026
 
 Multi-agent AI system where large language model agents play a social deduction game inspired by *The Traitors*.
 
@@ -123,7 +123,7 @@ Repo is private due to requirements of the course.
 
 ---
 
-### 🌞 [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
+### [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
 
 A real-time shared calendar for planning group activities with friends or flatmates - drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports guest links for inviting people outside the group.
 
@@ -144,7 +144,7 @@ Developed a web app that allows a group of friends to each input their availabil
 
 ---
 
-### 🌍 [Carbon Footprint Browser Extension](https://github.com/palkerecsenyi/carbonara)
+### [Carbon Footprint Browser Extension](https://github.com/palkerecsenyi/carbonara)
 
 Winner — **Tech for Environmental Sustainability**, Bath Hack 2023
 
@@ -157,7 +157,7 @@ Browser extension that displays **product carbon emissions** when shopping onlin
 
 ---
 
-### 🌱 [AI Plant Identifier Web App](https://github.com/l-sheard/housePlants)
+### [AI Plant Identifier Web App](https://github.com/l-sheard/housePlants)
 
 Winner — **Best UI/UX**, Women in Tech Hackathon 2024
 
@@ -170,7 +170,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - **Generation Google Scholar (2023–24)**
 - **Four-time Hackathon Winner**
@@ -182,7 +182,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python • C# • Java • TypeScript • JavaScript • SQL • Haskell • HTML • CSS
 
@@ -194,7 +194,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 
 ---
 
-## 🎯 Interests
+## Interests
 
 🏄 Surfing
 ⛷ Skiing
@@ -204,7 +204,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/lara-sheard-60b53025a)
-💻 [DevPost](https://devpost.com/ls2548)
+[LinkedIn](https://www.linkedin.com/in/lara-sheard-60b53025a)
+[DevPost](https://devpost.com/ls2548)
