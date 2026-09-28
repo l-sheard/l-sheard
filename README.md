@@ -72,7 +72,7 @@ The event was nominated for **University of Bath Event of the Year**.
 
 ## Featured Projects
 
-### [My Travel Patches]
+### [My Travel Patches](https://github.com/l-sheard/Travel-Patch-Collection)
 
 A PWA for cataloguing a physical travel patch collection — scan a patch with your phone to match it against ones you've already logged using computer vision. Full auth, Postgres row-level security, and background removal via a Cloudflare Worker.
 
