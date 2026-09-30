@@ -11,13 +11,13 @@ I’m interested in full-stack development, agentic AI, reinforcement learning, 
 
 ## Contents
 
-- [Research & Interests](#-research--interests)
-- [Experience](#-experience)
-- [Featured Projects](#-featured-projects)
-- [Achievements](#-achievements)
-- [Tech Stack](#-tech-stack)
-- [Interests](#-interests)
-- [Connect With Me](#-connect-with-me)
+- [Research & Interests](#research--interests)
+- [Experience](#experience)
+- [Featured Projects](#featured-projects)
+- [Achievements](#achievements)
+- [Tech Stack](#tech-stack)
+- [Interests](#interests)
+- [Connect With Me](#connect-with-me)
 
 ---
 
@@ -76,7 +76,7 @@ The event was nominated for **University of Bath Event of the Year**.
 
 A PWA for cataloguing a physical travel patch collection - scan a patch with your phone to match it against ones you've already logged using computer vision. Full auth, Postgres row-level security, and background removal via a Cloudflare Worker.
 
-**Stack:** React, TypeScript, Vite, Supabase (Postgres/Auth/Storage), TensorFlow\.js, Cloudflare Workers
+**Stack:** React, TypeScript, Vite, Supabase (Postgres/Auth/Storage), TensorFlow.js, Cloudflare Workers
 
 [Repo](https://github.com/l-sheard/Travel-Patch-Collection)
 
