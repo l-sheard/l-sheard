@@ -52,7 +52,7 @@ My recent work includes **multi-agent reinforcement learning, skill discovery, d
 **2024**
 
 - Developed a **custom Copilot solution** using Azure services and Semantic Kernel
-- Collaborated in an agile team and contributed to production-level code
+- Collaborated in an agile team
 - Presented my solution to the team and the organisation’s Vice President
 
 **Tech:** C#, Azure, Azure OpenAI, Azure SQL, Git
@@ -74,7 +74,7 @@ The event was nominated for **University of Bath Event of the Year**.
 
 ### [My Travel Patches](https://github.com/l-sheard/Travel-Patch-Collection)
 
-A PWA for cataloguing a physical travel patch collection — scan a patch with your phone to match it against ones you've already logged using computer vision. Full auth, Postgres row-level security, and background removal via a Cloudflare Worker.
+A PWA for cataloguing a physical travel patch collection - scan a patch with your phone to match it against ones you've already logged using computer vision. Full auth, Postgres row-level security, and background removal via a Cloudflare Worker.
 
 **Stack:** React, TypeScript, Vite, Supabase (Postgres/Auth/Storage), TensorFlow\.js, Cloudflare Workers
 
@@ -125,7 +125,7 @@ Repo is private due to requirements of the course.
 
 ### [Group Activity Planner](https://github.com/l-sheard/Group-Activity-Planner)
 
-A real-time shared calendar for planning group activities with friends or flatmates - drag-and-drop scheduling, RSVPs with +1s, cost splitting, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports guest links for inviting people outside the group.
+A real-time shared calendar for planning group activities with friends or flatmates - drag-and-drop scheduling, RSVPs with +1s, per-event chat, and a live calendar feed you can subscribe to from your phone. Supports guest links for inviting people outside the group.
 
 **Stack:** React, Tailwind CSS, Vite, Firebase (Firestore + Auth), Cloudflare Workers
 
@@ -176,6 +176,7 @@ Machine learning web app that identifies houseplants and provides care guidance.
 - **Four-time Hackathon Winner**
 - **2nd place in the MSc category at the BCS National Lovelace Colloquium 2026**
 - **Top 10 Computer Science student**, University of Bath
+- **Contribution to Departmental Societies Award**, Department of Computer Science - University of Bath
 - Microsoft Certified **Azure Fundamentals**
 - Runner-up — **Bournemouth Young Researchers Prize**
 - 3rd place — **Alan Turing Cryptography Competition** (1000+ teams)
